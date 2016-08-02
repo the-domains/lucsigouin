@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.9847071850672364
 name: lucsigouin
+navigation:
+  - name: Visit Grand Teton in this 8K Timelapse
+    id: ef4ab8d0-5443-47a5-b1d8-b65a3fba8842
+    type: content
 title: Welcome to my life
 description: the mind of a tech lover
