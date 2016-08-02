@@ -1,4 +1,3 @@
-layout_spectrum: 0.9847071850672364
 typography_spectrum: 0.2650034031830728
 color:
   brandStrength: 0.2099064278881997
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9847071850672364
 name: lucsigouin
 title: Welcome to my life
+description: the mind of a tech lover
