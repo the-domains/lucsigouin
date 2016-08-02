@@ -1,4 +1,6 @@
 typography_spectrum: 0.2650034031830728
+content_rating:
+  adult: false
 color:
   brandStrength: 0.2099064278881997
   lightness: 0.5681494136806577
@@ -11,6 +13,10 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.9847071850672364
+author:
+  name: Lucas
+  email: luc_sigouin@hotmail.com
+  url: lucsigouin.com
 name: lucsigouin
 navigation: []
 title: Welcome to my life
