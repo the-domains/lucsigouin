@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Welcome to my life]]></title>
-        <description><![CDATA[Welcome to my life]]></description>
+        <title><![CDATA[in the mind of a tech lover]]></title>
+        <description><![CDATA[in the mind of a tech lover]]></description>
         <link>https://thegrid.ai/lucsigouin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 19:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2016 19:53:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lucsigouin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5615bca9-79e9-4c87-86e2-1f75d7a7f0b4.jpg">]]></description>
+            <link>https://thegrid.ai/lucsigouin/become-one-with-yourself-before-trying-to-give-yourself-to-s/index.html</link>
+            <guid isPermaLink="false">25ec5aa2-3085-4066-be8f-859e41a69287</guid>
+            <pubDate>Tue, 02 Aug 2016 19:53:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dd7beb3-ce1b-4b35-a0a9-62f454ffb303.jpg" alt="the mind holds thoughts and feelings just as servers holds data">]]></description>
